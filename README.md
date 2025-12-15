@@ -58,9 +58,9 @@ maintainability matter.
 ### Infrastructure & Tools
 - Docker
 - Git & GitHub
-- AWS (basic), Render
+- Vercel, Render
+- AWS (basic)
 - Nginx
-
 
 ---
 
