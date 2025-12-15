@@ -21,32 +21,46 @@ maintainability, and real-world use cases.
 
 ## About
 
-Backend-oriented **Full-Stack Developer (MERN + TypeScript)** focused on building secure,
-scalable APIs and backend systems. Experience with authentication, validation,
-rate-limiting, and real-time features. Open-source contributor who prefers
-clean, production-ready solutions.
+Backend-oriented Full-Stack Developer focused on building secure, scalable,
+and maintainable backend systems using Node.js and TypeScript.
+
+I work on designing clean REST APIs, implementing authentication systems
+(JWT and Google OAuth), validation and sanitization layers, rate-limiting
+strategies, and production-ready backend architectures. Alongside backend
+work, I build modern React interfaces with state management and smooth
+animations using Framer Motion.
+
+I enjoy working close to real-world system problems and contributing to
+open-source projects where code quality, security, and long-term
+maintainability matter.
+
 
 ---
 
 ## Tech Stack
 
-**Backend**
-- Node.js, Express.js, GraphQL  
-- REST APIs, JWT-based authentication  
-- Middleware-driven design  
+### Backend & APIs
+- Node.js, TypeScript
+- Express.js, REST APIs, GraphQL
+- Authentication: JWT, Google OAuth
+- Middleware-driven and modular architecture
 
-**Frontend**
-- React  
-- Redux Toolkit, TanStack Query  
-- Tailwind CSS  
+### Databases & Caching
+- PostgreSQL, MongoDB
+- Redis (caching, rate limiting)
 
-**Databases**
-- MongoDB, PostgreSQL, Redis  
+### Frontend
+- React
+- Redux Toolkit, TanStack Query
+- Tailwind CSS
+- Framer Motion
 
-**Tools & Infrastructure**
-- Docker  
-- Git, GitHub  
-- AWS, Render, Nginx  
+### Infrastructure & Tools
+- Docker
+- Git & GitHub
+- AWS (basic), Render
+- Nginx
+
 
 ---
 
