@@ -53,25 +53,19 @@ clean, production-ready solutions.
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=100NikhilBro&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=43200"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=100NikhilBro&theme=radical&hide_border=true"
-    width="49%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=100NikhilBro&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100NikhilBro&theme=radical&hide_border=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100NikhilBro&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=100NikhilBro&layout=compact&theme=radical&hide_border=true"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=100NikhilBro&theme=github-dark&hide_border=true"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100NikhilBro&theme=github-dark&hide_border=true" />
 </p>
 
 ---
