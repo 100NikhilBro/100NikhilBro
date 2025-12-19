@@ -12,7 +12,7 @@ maintainability, and real-world use cases.
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1PIypu33YgQ6hUhtUHztXDbE8BSeiqe9j/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1C2S0NI3X7bgzCYkptCqrIg_ii6MVnB9T/view">
     <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
