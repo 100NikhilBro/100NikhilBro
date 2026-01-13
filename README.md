@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend-Oriented+Full-Stack+Developer;Node.js+%7C+TypeScript+%7C+APIs;Security+%7C+Clean+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend-Oriented+Full-Stack+Developer;Node.js+%7C+TypeScript+%7C+APIs;Security+%7C+Scalable+Systems" />
 </p>
 
 <p align="center">
-I build reliable backend systems and APIs with a focus on security,
-maintainability, and real-world use cases.
+Backend-focused Full-Stack Developer passionate about building secure,
+scalable, and production-ready web systems.
 </p>
 
 <p align="center">
@@ -19,60 +19,58 @@ maintainability, and real-world use cases.
 
 ---
 
-## About
+## 👋 About Me
 
-Backend-oriented Full-Stack Developer focused on building secure, scalable,
-and maintainable backend systems using Node.js and TypeScript.
+I am a **Backend-oriented Full-Stack Developer** specializing in designing and
+implementing **secure, scalable, and maintainable backend systems** using
+**Node.js and TypeScript**.
 
-I work on designing clean REST APIs, implementing authentication systems
-(JWT and Google OAuth), validation and sanitization layers, rate-limiting
-strategies, and production-ready backend architectures. Alongside backend
-work, I build modern React interfaces with state management and smooth
-animations using Framer Motion.
+My core strengths include building **clean REST APIs**, implementing robust
+**authentication and authorization systems** (JWT & Google OAuth), designing
+**middleware-driven architectures**, and applying best practices around
+**validation, sanitization, rate limiting, and security**.
 
-I enjoy working close to real-world system problems and contributing to
-open-source projects where code quality, security, and long-term
-maintainability matter.
+On the frontend, I develop modern and responsive interfaces using **React**
+along with efficient state management and smooth UI animations.
 
+I enjoy working on **real-world system problems**, writing **clean and
+maintainable code**, and contributing to projects where **architecture and
+long-term scalability** matter.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend & APIs
-- Node.js, TypeScript
-- Express.js, REST APIs, GraphQL
-- Authentication: JWT, Google OAuth
-- Middleware-driven and modular architecture
+- Node.js, TypeScript  
+- Express.js, REST APIs, GraphQL  
+- Authentication & Authorization (JWT, Google OAuth)  
+- Modular & middleware-driven architecture  
 
 ### Databases & Caching
-- PostgreSQL, MongoDB
+- PostgreSQL, MongoDB  
 - Redis (caching, rate limiting)
 
 ### Frontend
-- React
-- Redux Toolkit, TanStack Query
-- Tailwind CSS
-- Framer Motion
+- React  
+- Redux Toolkit, TanStack Query  
+- Tailwind CSS  
+- Framer Motion  
 
 ### Infrastructure & Tools
-- Docker
-- Git & GitHub
-- Vercel, Render
-- AWS (basic)
-- Nginx
+- Docker  
+- Git & GitHub  
+- Vercel, Render  
+- AWS (basic)  
+- Nginx  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=100NikhilBro&show_icons=true&theme=radical&hide_border=true" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100NikhilBro&theme=radical&hide_border=true" />
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100NikhilBro&layout=compact&theme=radical&hide_border=true" />
@@ -84,7 +82,7 @@ maintainability matter.
 
 ---
 
-## Contact
+## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/nikhil-gupta-61b193282  
-- Email: 6174nikhilgupta@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/nikhil-gupta-61b193282  
+- **Email:** 6174nikhilgupta@gmail.com
