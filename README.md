@@ -12,7 +12,7 @@ scalable, and production-ready web systems.
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1QM2Fd4d_eJbYAgxYsGLHKCkbp7j-aYLh/view?usp=sharing">
+  <!-- <a href="https://drive.google.com/file/d/1QM2Fd4d_eJbYAgxYsGLHKCkbp7j-aYLh/view?usp=sharing"> -->
     <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
