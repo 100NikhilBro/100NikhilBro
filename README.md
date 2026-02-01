@@ -42,7 +42,7 @@ long-term scalability** matter.
 ## 🛠️ Tech Stack
 
 ### Backend & APIs
-- Node.js, TypeScript  
+- Node.js, TypeScript, JavaScript 
 - Express.js, REST APIs, GraphQL  
 - Authentication & Authorization (JWT, Google OAuth)  
 - Modular & middleware-driven architecture  
