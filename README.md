@@ -53,7 +53,7 @@ long-term scalability** matter.
 
 ### Frontend
 - React  
-- Redux Toolkit, TanStack Query  
+- Redux Toolkit, TanStack Query and Zustand
 - Tailwind CSS  
 - Framer Motion  
 
