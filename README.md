@@ -66,21 +66,18 @@ long-term scalability** matter.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=100NikhilBro&show_icons=true&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100NikhilBro&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=100NikhilBro&theme=github-dark&hide_border=true" />
-</p>
+</p> -->
 
----
 
 ## 📫 Contact
 
