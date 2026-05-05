@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13jlnf7P5mUjXRi_FFSEDIfkzuY1DfccL" />
+  <img src="https://drive.google.com/uc?id=1yNw2mfRCiQITGSvyg4D3pGpB-vlNbX7b" />
 </p>
+
+
 
 <p align="center">
   <b>━━━━━━━━━━━ FAILED BETTER ━━━━━━━━━━━</b>
