@@ -1,57 +1,25 @@
-<!-- <p align="center">
-  <img src="https://drive.google.com/uc?id=1yNw2mfRCiQITGSvyg4D3pGpB-vlNbX7b" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Backend & AI | Full-Stack Developer.</strong><br>
+      Building scalable backend systems, AI-powered applications, and developer tools.
+    </td>
+    <td align="right">
+      <strong><i>Fail Better. Build Greater.</i></strong>
+    </td>
+  </tr>
+</table>
 
+---
 
+| |
+|---|
+| ▸ Published <a href="https://www.npmjs.com/package/hi-secure">HiSecure</a> · Express.js security middleware · <a href="https://npm-stat.com/charts.html?package=hi-secure">3.6K+ downloads</a> |
+| ▸ <a href="https://github.com/search?q=author%3A100NikhilBro+is%3Apr+is%3Amerged&type=pullrequests">30+ merged OSS PRs</a> across BetterDB, FlagLint, AltimateAI, Cotabby, and other open-source projects |
+| ▸ Contributed to <a href="https://github.com/BetterDB-inc/monitor">BetterDB Monitor</a> · <a href="https://github.com/flaglint/flaglint-js">FlagLint JS</a> · <a href="https://github.com/AltimateAI/altimate-code">Altimate Code</a> · <a href="https://github.com/FuJacob/cotabby">Cotabby</a> |
+| ▸ Built <a href="https://github.com/100NikhilBro/ExpenseSync">ExpenseSync</a> · AI-powered expense management platform |
+| ▸ Built <a href="https://github.com/100NikhilBro/Carbon-flow">CarbonFlow</a> · Multi-tenant ESG data platform |
+| ▸ Built <a href="https://github.com/100NikhilBro/Assignly">Assignly</a> · AI-powered assessment generation platform |
+| ▸ Built <a href="https://github.com/100NikhilBro/hi-secure">HiSecure</a> · Production-ready Express.js security middleware |
+| ▸ Currently building <a href="https://github.com/100NikhilBro/backend-engineering-foundations">Backend Engineering Foundations</a> · <a href="https://github.com/100NikhilBro/genai-playground">GenAI Playground</a> · <a href="https://github.com/100NikhilBro/nodejs-scaling-lab">Node.js Scaling Lab</a> · <a href="https://github.com/100NikhilBro/devcontainer-lab">DevContainer Lab</a> |
 
-<p align="center">
-  <b>━━━━━━━━━━━ FAILED BETTER ━━━━━━━━━━━</b>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100NikhilBro&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=100NikhilBro&theme=github-dark&hide_border=true" />
-</p>
-
-
-
-
-
-
-<p align="center">
-  <b>━━━━━━━━━━━ BUILD GREATER ━━━━━━━━━━━</b>
-</p> -->
-
-
-
-# Nikhil Gupta
-
-**Backend & AI | Full-Stack Developer**
-
-## Projects
-
-| Project                                                    | Focus                                   |
-| ---------------------------------------------------------- | --------------------------------------- |
-| [ExpenseSync](https://github.com/100NikhilBro/ExpenseSync) | Full-stack expense management platform  |
-| [CarbonFlow](https://github.com/100NikhilBro/Carbon-flow)  | Multi-tenant ESG data platform          |
-| [Assignly](https://github.com/100NikhilBro/Assignly)       | AI-powered assessment generation system |
-| [HiSecure](https://github.com/100NikhilBro/hi-secure)      | Express.js security middleware          |
-
-## Open Source
-
-| Project                                                     | Contribution               |
-| ----------------------------------------------------------- | -------------------------- |
-| [BetterDB Monitor](https://github.com/BetterDB-inc/monitor) | Monitoring & Observability |
-| [FlagLint JS](https://github.com/flaglint/flaglint-js)      | CLI & Developer Tooling    |
-
-## Learning
-
-| Repository                                                                                         | Focus                                |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [backend-engineering-foundations](https://github.com/100NikhilBro/backend-engineering-foundations) | Backend Engineering & System Design  |
-| [genai-playground](https://github.com/100NikhilBro/genai-playground)                               | Generative AI & LLM Engineering      |
-| [nodejs-scaling-lab](https://github.com/100NikhilBro/nodejs-scaling-lab)                           | Node.js Performance & Infrastructure |
-| [devcontainer-lab](https://github.com/100NikhilBro/devcontainer-lab)                               | Dev Containers & Docker Workflows    |
