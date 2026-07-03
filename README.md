@@ -39,7 +39,7 @@
 
   <tr>
     <td>
-      Currently building and documenting <a href="https://github.com/100NikhilBro/backend-engineering-foundations">Backend Engineering Foundations</a>, <a href="https://github.com/100NikhilBro/genai-playground">GenAI Playground</a>, <a href="https://github.com/100NikhilBro/nodejs-scaling-lab">Node.js Scaling Lab</a>, and <a href="https://github.com/100NikhilBro/devcontainer-lab">DevContainer Lab</a>.
+      Currently building and documenting <a href="https://github.com/100NikhilBro/backend-engineering-foundations">Backend Engineering Foundations</a>, <a href="https://github.com/100NikhilBro/networks-foundation">Networks Foundation</a>, <a href="https://github.com/100NikhilBro/genai-playground">GenAI Playground</a>, <a href="https://github.com/100NikhilBro/nodejs-scaling-lab">Node.js Scaling Lab</a>, and <a href="https://github.com/100NikhilBro/devcontainer-lab">DevContainer Lab</a>.
     </td>
   </tr>
 
