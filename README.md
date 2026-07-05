@@ -39,7 +39,19 @@
 
   <tr>
     <td>
-      Currently building and documenting <a href="https://github.com/100NikhilBro/backend-engineering-foundations">Backend Engineering Foundations</a>, <a href="https://github.com/100NikhilBro/networks-foundation">Networks Foundation</a>, <a href="https://github.com/100NikhilBro/genai-playground">GenAI Playground</a>, <a href="https://github.com/100NikhilBro/nodejs-scaling-lab">Node.js Scaling Lab</a>, and <a href="https://github.com/100NikhilBro/devcontainer-lab">DevContainer Lab</a>.
+      Currently building <a href="https://github.com/100NikhilBro/knowledge-reasoning-system">Knowledge Reasoning System</a>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Currently learning and documenting <a href="https://github.com/100NikhilBro/backend-engineering-foundations">Backend Engineering Foundations</a>, <a href="https://github.com/100NikhilBro/networks-foundation">Networks Foundation</a>, <a href="https://github.com/100NikhilBro/genai-playground">GenAI Playground</a>, <a href="https://github.com/100NikhilBro/nodejs-scaling-lab">Node.js Scaling Lab</a>, and <a href="https://github.com/100NikhilBro/devcontainer-lab">DevContainer Lab</a>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      Earned <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgwl3bu90075l404m7fcabyy">Hacktoberfest 2025 Supercontributor</a>.
     </td>
   </tr>
 
