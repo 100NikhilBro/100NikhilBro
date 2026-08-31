@@ -27,7 +27,7 @@
 
   <tr>
     <td>
-      Built <a href="https://github.com/100NikhilBro/ExpenseSync">ExpenseSync</a>, <a href="https://github.com/100NikhilBro/Carbon-flow">CarbonFlow</a>, <a href="https://github.com/100NikhilBro/Assignly">Assignly</a>, <a href="https://github.com/100NikhilBro/hi-secure">HiSecure</a>, and <a href="https://github.com/100NikhilBro/knowledge-reasoning-system">Knowledge Reasoning System</a>, spanning finance, sustainability, AI, developer security, and evidence-grounded reasoning.
+      Built <a href="https://github.com/100NikhilBro/ExpenseSync">ExpenseSync</a>, <a href="https://github.com/100NikhilBro/Carbon-flow">CarbonFlow</a>, <a href="https://github.com/100NikhilBro/Assignly">Assignly</a>, <a href="https://github.com/100NikhilBro/hi-secure">HiSecure</a> spanning finance, sustainability, AI, developer security
     </td>
   </tr>
 
